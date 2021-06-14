@@ -15,3 +15,6 @@ $npx create-react-app react-helloworld
 
 ## アプリケーション実行
 $yarn start
+
+## 動作メモ
+・index.htmlのid=root要素内に、App.jsでreturnしたjsxが描画される。
